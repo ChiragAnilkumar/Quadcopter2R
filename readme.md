@@ -6,4 +6,3 @@ The initial conditions and desired conditions for each case of simulation can be
 
 The EOM_Derive_syms.m file is used to derive the Coriolis matrix as well the Gravity matrix from inertia matrix in the equations of motion using syms function
 
-The animation videos, graphs plotted along with the presentation file are also attached
